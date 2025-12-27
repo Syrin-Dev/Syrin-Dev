@@ -1,16 +1,35 @@
-## Hi there 👋
+# 🌌 SYRIN-CORE | System Architect
 
-<!--
-**Syrin-Dev/Syrin-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **"Code is the tool; logic is the master."**
+> Building high-performance digital products by bridging the gap between human vision and AI execution.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 SYSTEM_LOG.md
+* **Status:** Operational
+* **Focus:** App Architecture & Functional Design
+* **Methodology:** AI-Native Development (Leveraging Antigravity for rapid deployment)
+* **Target:** Aalto University 🇫🇮
+
+---
+
+### 🛠️ TECH_STACK
+`Logic & Architecture` `AI-Driven Workflows (Antigravity)` `System Scaling` `User Experience`
+
+---
+
+### 🚀 ACTIVE_PROJECTS
+Currently working on Astro Image Well
+
+---
+
+
+### 📡 UPLINK
+<p align="left">
+  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="YOUR_X"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@RenXT"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+
+---
+<p align="right"><i>Location: Sofia, Bulgaria (UTC+2)</i></p>
